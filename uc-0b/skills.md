@@ -7,6 +7,6 @@ skills:
 
   - name: summarize_policy
     description: Takes structured sections and produces a compliant summary with clause references.
-    input: Structured text or JSON containing numbered sections of the policy document.(example ..\data\policy-docs\leave-policy.txt)
-    output: A compliant summary text preserving all obligations, conditions, and clause references.(example uc-0bleave-policy-summary.txt)
+    input: Structured text or JSON containing numbered sections of the policy document.(example ..\data\policydocs\leave-policy.txt)
+    output: A compliant summary text preserving all obligations, conditions, and clause references.(example uc-0b\leave-policy-summary.txt)
     error_handling: Quote verbatim and flag any clauses that cannot be summarized without meaning loss. Return an error if required input sections are missing or malformed.
