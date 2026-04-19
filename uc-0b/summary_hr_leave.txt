@@ -1,4 +1,4 @@
-SUMMARY REPORT: HR LEAVE POLICY
+    SUMMARY REPORT: HR LEAVE POLICY
 ===============================
 This summary is generated in strict compliance with the defined enforcement rules:
 - Every numbered clause is present.
