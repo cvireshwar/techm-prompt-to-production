@@ -54,7 +54,7 @@ def summarize_policy(structured_sections: dict) -> str:
         raise ValueError("Error: Input lacks parseable numbered clauses.")
         
     summary_lines = [
-        "SUMMARY REPORT: HR LEAVE POLICY",
+        "SUMMARY REPORT",
         "===============================",
         "This summary is generated in strict compliance with the defined enforcement rules:",
         "- Every numbered clause is present.",
